@@ -1,0 +1,5 @@
+1.用代码实现游戏规则//15min
+输入：num，a,b,c:number
+输出：result:string or number
+2.测试//15min
+3.重构//15min
